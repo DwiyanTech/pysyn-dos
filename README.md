@@ -1,4 +1,4 @@
-## abuseip-checker
+## PYSYN-DOS
 ---
 ### Requirements 
 - scapy
